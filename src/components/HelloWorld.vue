@@ -196,6 +196,7 @@ h2{
   align-items: start;
   width: 100%;
   flex-wrap: wrap;
+  margin: 0 auto;
 }
 .main-content {
   background-color: #f6f8f9;
