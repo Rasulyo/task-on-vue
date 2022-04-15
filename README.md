@@ -4,7 +4,10 @@
 ```
 npm install
 ```
+## Fake json setup
+```
 json-server --watch db.json --port 3003
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
