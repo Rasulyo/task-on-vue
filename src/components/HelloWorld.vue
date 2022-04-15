@@ -201,7 +201,7 @@ h2{
 .main-content {
   background-color: #f6f8f9;
   padding: 1.5%;
-  width: 400px;
+  width: 435px;
   display: flex;
   flex-direction: column;
   align-content: space-between;
